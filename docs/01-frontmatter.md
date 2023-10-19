@@ -1,5 +1,5 @@
 ---
-title: RCF Preliminary Design
+title: RCF-RCP Interface Specification
 author:
 - Jack Hickish\textsuperscript{1}
 affiliation:
@@ -25,5 +25,10 @@ revisions:
   date: 2023-10-17
   sections: all
   remarks: Re-title to use DSA document numbering. Port to DSA document template.
+  authors: JH
+- version: 4
+  date: 2023-10-19
+  sections: Title
+  remarks: Title change
   authors: JH
 ...
